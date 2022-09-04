@@ -11,7 +11,15 @@ Los bosques de regresión (o bosques aleatorios de regresión) son un conjunto (
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_2e1b9f9d0eed4aaf8f292818a69cd04d.png)
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Prueba muestra de salida
+Árbol 1 - Árbol 2 ... - Árbol 600
+Predicción 1 - Predicción 2 ... - Predicción 600
+Promedio de Predicciones
+Predicción de Bosque Aleatorio
+---
 
 
 
