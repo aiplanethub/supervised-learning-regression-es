@@ -13,7 +13,7 @@ SVR **nos da la flexibilidad de definir cuánto error es aceptable** en nuestro 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-EjQWqHMsog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1NnW6Fp7iTAtpA8qpBNa1yH214KeKAVvT/view?usp=sharing)
 
 
 
