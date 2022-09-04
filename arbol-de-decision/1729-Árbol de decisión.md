@@ -18,7 +18,20 @@ Un árbol de decisión es una estructura arbórea similar a un diagrama de flujo
 
 
 
+Las traducciones exactas de la imagen anterior se pueden encontrar a continuación:
 
+---
+Arboles de decisiones
+Perspectiva
+Soleado
+Humedad
+Alta - No
+Normal - Sí
+Cubierto - Sí
+Lluvia
+Fuerte - No
+Débil - Sí
+---
 
 
 
