@@ -54,7 +54,7 @@ Predicción de Bosque Aleatorio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3UaGUZ8bAg?start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1-9gqXX3VHQSiufiL4XwuGeB1ISawOPx7/view?usp=sharing)
 
 
 
