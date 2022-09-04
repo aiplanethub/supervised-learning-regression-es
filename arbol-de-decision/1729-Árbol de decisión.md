@@ -50,7 +50,7 @@ Débil - Sí
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9c66TUylZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1pomgejfYuIkmsEogH5pT_nB742MRUaP1/view?usp=sharing)
 
 
 
