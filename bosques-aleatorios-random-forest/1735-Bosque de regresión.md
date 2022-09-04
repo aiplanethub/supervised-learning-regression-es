@@ -39,7 +39,7 @@ Predicción de Bosque Aleatorio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RUEFSwN-orQ?start=63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+[La versión traducida del vídeo en español puede encontrarse aquí](https://drive.google.com/file/d/1OhZERRdP-UG5blm5RQF3Q0nz3RHgnvzd/view?usp=sharing)
 
 
 
